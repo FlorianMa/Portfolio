@@ -7,10 +7,9 @@
 - Hyperparameters Tuning
 - Confidence Interval
 
-[](https://github.com/martinflor/Portfolio/blob/main/images/schema1__1_-removebg-preview.png)
+![](images/mean_acc.png)
 
-[](https://github.com/martinflor/Portfolio/blob/main/images/mean_acc.png)
-
+---
 
 # [Project 2 : Tumor individuals prediction](https://github.com/martinflor/Single-cell-expression)
 - Single Cell Expression Data
