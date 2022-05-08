@@ -7,7 +7,7 @@
 - Hyperparameters Tuning
 - Confidence Interval
 
-![](https://github.com/martinflor/Portfolio/blob/main/images/mean_acc.png)
+![](https://github.com/martinflor/Portfolio/blob/main/images/schema1__1_-removebg-preview.png)
 
 ![](https://github.com/martinflor/Portfolio/blob/main/images/mean_acc.png)
 
