@@ -7,7 +7,7 @@
 - Hyperparameters Tuning
 - Confidence Interval
 
-![](images/schema1 (1).svg)
+![](images/schema1__1_-removebg-preview.png)
 
 
 # [Project 2 : Tumor individuals prediction](https://github.com/martinflor/Single-cell-expression)
