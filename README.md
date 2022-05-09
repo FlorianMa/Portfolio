@@ -16,3 +16,4 @@
 - Imbalanced Dataset
 - Feature Reduction (Empty columns, similar, correlation, ...)
 - Ensemble (Decision Trees)
+![](images/BCR-classifiers.png)
