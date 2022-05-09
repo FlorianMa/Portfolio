@@ -4,7 +4,7 @@
 ![](images/schema1__1_-removebg-preview.png)
 - Audio Monitoring of forests
 - Preventing from abnormal events (Sawing, crackling fire, ...)
-- Convolutional Neural Network
+- Convolutional Neural Network (Pytorch)
 - Audio processing (Spectrograms, melspectrograms, ...)
 - Data Augmentation (Time Shift, Masking, Noise, Scaling, ...)
 - Hyperparameters Tuning
@@ -16,5 +16,5 @@
 # [Project 2 : Tumor individuals prediction](https://github.com/martinflor/Single-cell-expression)
 - Single Cell Expression Data
 - Imbalanced Dataset
-- Feature Reduction
+- Feature Reduction (Empty columns, similar, correlation, ...)
 - Ensemble (Decision Trees)
