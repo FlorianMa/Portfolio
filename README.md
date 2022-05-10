@@ -20,8 +20,14 @@
 ![](images/BCR-classifiers.png)
 
 
+# [Project 3 : Intel Image Classification](https://github.com/martinflor/IntelClassification)
+- Small Project on image classification
+- Intel Image dataset (150x150)
+- Large Dataset
+- Data transformations (torchvision)
+- Convolutional Neural Network (Conv2d, BatchNorm, ReLU, MaxPool2d, ...)
 
-# Project 3 : Turbocodes : Road to Shannon Limit
+# Project 4 : Turbocodes : Road to Shannon Limit
 - Python Project
 - Uncoded 4-QAM transmission chain
 - Convolutional Encoding
@@ -31,7 +37,7 @@
 
 ![](images/memory.svg)
 
-# Project 4 : Tchebyshev Coupled Line Bandpass Filter
+# Project 5 : Tchebyshev Coupled Line Bandpass Filter
 - ADS project
 - Bandpass filters for Radio-Frequency
 - Simulations on ADS
