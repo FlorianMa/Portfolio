@@ -20,7 +20,7 @@
 ![](images/BCR-classifiers.png)
 
 
-# [Project 3 : Intel Image Classification](https://github.com/martinflor/IntelClassification)
+# [Project 3 : Intel Image Classification using Pytorch](https://github.com/martinflor/IntelClassification)
 - Small Project on image classification
 - Intel Image dataset (150x150)
 - Large Dataset
