@@ -1,7 +1,15 @@
-title: Florian Martin   Portfolio
+title: Portfolio
+author : Florian Martin
 logo: images/PP-modified.png
 description: Electrical Engineering Student at Ecole Polytechnique de Louvain-la-Neuve (EPL)
 show_downloads: False
 is_project_page: false
 google_analytics:
 theme: jekyll-theme-minimal
+
+navbar-links:
+  About Me: "aboutme"
+  Resources:
+    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Learn markdown: "https://www.markdowntutorial.com/"
+  Author's home: "https://deanattali.com"
