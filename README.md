@@ -14,7 +14,7 @@
 # [Project 2 : Tumor individuals prediction](https://github.com/martinflor/Single-cell-expression)
 - Single Cell Expression Data
 - Imbalanced Dataset
-- Feature Reduction (Empty columns, similar, correlation, ...)
+- Feature Reduction (Empty columns, NaN values, correlation, ...)
 - Ensemble (Decision Trees)
 
 ![](images/BCR-classifiers.png)
