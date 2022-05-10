@@ -1,9 +1,17 @@
 title: Florian Martin  Portfolio
+email: florian.martin@student.uclouvain.be
+description: Electrical Engineering Student at the University of Louvain-la-Neuve at the Ecole Polytechnique de Louvain-la-Neuve (EPL)
+
+baseurl: "/Portfolio"
+url: "http://martinflor.com"
+github_username:  martinflor
+
+theme: jekyll-theme-minimal
+plugins:
+  - jekyll-feed
+
+
 logo: images/PP-modified.png
-description: Electrical Engineering Student at Ecole Polytechnique de Louvain-la-Neuve (EPL)
+
 show_downloads: False
 is_project_page: false
-google_analytics:
-theme: jekyll-theme-minimal
-
-
