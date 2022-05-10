@@ -27,6 +27,8 @@
 - Data transformations (torchvision)
 - Convolutional Neural Network (Conv2d, BatchNorm, ReLU, MaxPool2d, ...)
 
+![](images/Loss-training.svg)
+
 # Project 4 : Turbocodes : Road to Shannon Limit
 - Python Project
 - Uncoded 4-QAM transmission chain
