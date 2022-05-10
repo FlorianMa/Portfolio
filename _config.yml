@@ -1,6 +1,6 @@
-title: Minimal theme
-logo: images/PP.jpg
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
+title: Florian Martin - Portfolio
+logo: images/PP_crop.jpg
+description: Electrical Engineering Student (EPL)
+show_downloads: False
 google_analytics:
 theme: jekyll-theme-minimal
