@@ -42,7 +42,7 @@
 # Project 5 : Tchebyshev Coupled Line Bandpass Filter
 - ADS project
 - Bandpass filters for Radio-Frequency
-- Simulations on ADS
+- Simulation and Layout on ADS
 - Design and tuning
 
 ![](images/open_end_bis.svg)
