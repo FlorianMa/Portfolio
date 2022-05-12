@@ -6,7 +6,6 @@
 - Audio processing (Spectrograms, melspectrograms, ...)
 - Data Augmentation (Time Shift, Masking, Noise, Scaling, ...)
 - Hyperparameters Tuning
-- Confidence Interval
 
 
 
