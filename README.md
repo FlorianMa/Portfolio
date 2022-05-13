@@ -9,17 +9,7 @@
 
 
 
-
-# [Project 2 : Tumor individuals prediction](https://github.com/martinflor/Single-cell-expression)
-- Single Cell Expression Data
-- Imbalanced Dataset
-- Feature Reduction (Empty columns, NaN values, correlation, ...)
-- Ensemble (Decision Trees)
-
-![](images/BCR-classifiers.png)
-
-
-# [Project 3 : Intel Image Classification using Pytorch](https://github.com/martinflor/IntelClassification)
+# [Project 2 : Intel Image Classification using Pytorch](https://github.com/martinflor/IntelClassification)
 - Small Project on image classification
 - Intel Image dataset (150x150)
 - Large Dataset
@@ -28,7 +18,7 @@
 
 ![](images/intel.svg)
 
-# [Project 4 : Turbocodes : Road to Shannon Limit]()
+# [Project 3 : Turbocodes : Road to Shannon Limit]()
 - Python Project
 - Uncoded 4-QAM transmission chain
 - Convolutional Encoding
@@ -38,7 +28,7 @@
 
 ![](images/memory.svg)
 
-# [Project 5 : Tchebyshev Coupled Line Bandpass Filter]()
+# [Project 4 : Tchebyshev Coupled Line Bandpass Filter]()
 - ADS project
 - Bandpass filters for Radio-Frequency
 - Simulation and Layout on ADS
