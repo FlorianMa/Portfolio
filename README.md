@@ -46,4 +46,3 @@
 
 ![](images/open_end_bis.svg)
 
-![](images/increasingStraightLine.gif)
