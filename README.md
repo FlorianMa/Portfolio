@@ -26,7 +26,7 @@
 - BCJR decoding
 - Turbocodes
 
-![](images/MEM.gif)
+![](images/MEM.GIF)
 
 # [Project 4 : Tchebyshev Coupled Line Bandpass Filter]()
 - ADS project
