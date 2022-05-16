@@ -1,5 +1,4 @@
-title: Florian Martin  Portfolio
-description: M.Sc. Student in Electrical Engineering at the Université de Louvain-la-Neuve (EPL)
+title: L'aventure palpitante d'un castor et d'un pivert !
 
 github:
   is_project_page: false
@@ -11,6 +10,6 @@ plugins:
 - jekyll-remote-theme
 
 
-logo: images/PP-modified.png
+logo: images/_trp_woodpecker_beaver-01.png
 
 
