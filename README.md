@@ -96,7 +96,7 @@ Flo le schizophrène."
 
 [Journal de Bord : 27 Juin 2022]
 
-Parfois, je pense à toi sans moi,
+"Parfois, je pense à toi sans moi,
 Je pense à toi loin de moi,
 J’ai peur de changer,
 D’avoir tout gâcher,
@@ -129,6 +129,6 @@ J’ai peur de te voir t’éloigner,
 Je suis plus comme au début,
 Je suis plus celui que je fus,
 J’ai pas envie de te décevoir,
-J’ai peur de t’avoir fait croire … 
+J’ai peur de t’avoir fait croire … "
 
 
