@@ -44,3 +44,53 @@ Le pivert s'en souvenait encore au bord de la rivière ce jour là, quand il eut
 notre très cher pivert comprit qu'il tenait à quelqu'un comme il n'avait jamais tenu à quelqu'un auparavant. La séparation lui avait fait prendre conscience qu'il tenait au castor d'une manière extraordinaire. Ce jour-là, le pivert eut l'impression qu'une partie de lui avait décidé de le quitter et de partir loin.
 
 Alors, ces derniers jours, le pivert rêve toujours de tous ces voyages magnifiques qu'il est impatient de faireau côté du castor mais ... ce dont il a le plus envie ... c'est simplement de la revoir.
+
+
+[E-mail du pivert au castor : Archive du 16 Décembre 2022]
+
+"Hello, comment ça va ici ?
+
+Ce mail est une bouteille lancée à la mer (ou son analogie digitale si on préfère).
+J'espère que j'écris à la bonne personne sinon c'est un peu chiant. 
+Je sais que tu ne regardes pas tout le temps cette boite mail donc normalement tu ne devrais pas voir ce mail tout de suite. Mais bon même si tu le vois dans les jours qui suivent cette rédaction, ce n'est pas très grave en soit, les questions ne sont peut-être pas encore les plus pertinents mais rien n'empêche d'y revenir ultérieurement.
+
+
+Petites listes de questions : 
+- Comment ça va la tout de suite ?
+- Quelle année sommes-nous ? Quel mois ? 
+- Que s'est-il passé depuis l'envoi de ce mail ? Est-ce que tout va pour le mieux ? Je l'espère... 
+- Est-ce que ton mec a toujours des idées un peu farfelues, du genre t'écrire des mails pour un futur plus ou moins proche ?
+- Est-ce que vous êtes ensemble depuis plus d'un an maintenant ? (c'est peu probable, je serai trop impatient de te dire que t'as un mail qui t'attends)
+- Avez-vous passé votre 1ère St. Valentin ? Comment était-ce ? Des clichés ont été réalisé ou êtes-vous restés dans vos habitudes ?
+- Une note sur 20 à propos de Florian (Ouais ça gratte de ouf) (j'ai la flemme de mettre les emojis, imagine les 😂 juste après)
+- Avez-vous fini les Harry Potter ? Et les animaux fantastiques ?
+- Avez-vous été au cinéma ensemble du coup ? Les animaux fantastiques 3 ? 
+- Quel est le film/série du moment ?
+- Qui a gagné le combat de sol prévu ?
+- Avez-vous survécu aux examens ?
+- Comment était la soirée du dimanche 19/12/21 ? Avec l'esprit enfantin, etc ? 
+- Alors les ardentes ? Vous y avez été ensemble ?
+- Le surnom de chacun, c'est quoi finalement ? 
+- Qui est la bête et qui est la belle dans le couple ?
+- Comment se profile l'avenir ?
+- Quels sont les projets actuels ? Des trucs prévus ensemble ?
+- Qui manque le plus à l'autre ? (Ouais je fais des concours d'émotions nuls, et alors ?)
+- Qui se souvient de la date ou vous vous êtes mis ensemble ? 
+- Etes-vous dans le même endroit en ce moment ? Etes-vous dans le même lit ? Chloé dans les bras de Florian ? Si prévisible ... 
+-Etes-vous déjà partis ensemble en vacances ? Ou voudriez-vous aller ensemble ? 
+- Etes-vous aller dans la "vraie" maison de l'un et l'autre ? Donc vous avez rencontrés les parents de l'autre ? Wow ! Comment ça s'est passé ?
+- Florian, as-tu réussi à obtenir une photo de Chloé ? Une photo de vous deux ? C'était pas une photo prise au dépourvu ? Genre elle a accepté ?!
+- Est-ce que l'évènement planétaire a-t-il été réalisé ? Chloé a pris un verre d'eau ? Il y avait de la vittel j'espère, sinon honte à toi Florian ... 
+- Avez-vous atteint les 100 messages d'un coup ? Vous êtes complètement cons si c'est le cas mdr
+- Est-ce que Florian est finalement arrivé au bout de la playlist ? 
+- Damso, prochain album ? (Je place ça au cas ou) 
+- Spirit a-t-il été regardé ? Chloé a-t-elle chanté tout le long du film ?
+- Avez-vous dormi ensemble sur un trampoline ? 
+
+C'est déjà pas mal. J'espère que les réponses sont stylées. Que vous vous aimez, que tout va bien pour vous, je vous souhaite le meilleur. Soyez grands et comme a si bien dit Chloé, montrez-leur que vous avez le meilleur couple wooooow ! 
+
+Bisouuus à vous deux, 
+
+Flo le schizophrène."
+
+
