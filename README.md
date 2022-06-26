@@ -94,3 +94,41 @@ Bisouuus à vous deux,
 Flo le schizophrène."
 
 
+[Journal de Bord : 27 Juin 2022]
+
+Parfois, je pense à toi sans moi,
+Je pense à toi loin de moi,
+J’ai peur de changer,
+D’avoir tout gâcher,
+D’être l’ombre de moi-même, 
+Et ne plus entendre tes « Je t’aime »,
+
+J’ai peur de perdre,
+De perdre toi et moi,
+De perdre le pourquoi,
+D’asphyxier la flamme,
+De délier nos âmes,
+
+J’ai peur que tu oublies,
+Que tu oublies toi et moi,
+Que tu oublies le pourquoi,
+D’abimer tes souvenirs,
+De casser nos délires,
+
+J’ai peur de laisser couler,
+De laisser couler tes larmes,
+De laisser couler nos pensées,
+De plus faire d’efforts,
+D’éloigner nos corps,
+
+J’ai peur de te perdre,
+J’ai peur de te faire oublier,
+J’ai peur de te laisser couler,
+J’ai peur de te voir t’éloigner,
+
+Je suis plus comme au début,
+Je suis plus celui que je fus,
+J’ai pas envie de te décevoir,
+J’ai peur de t’avoir fait croire … 
+
+
