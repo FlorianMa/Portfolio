@@ -95,39 +95,7 @@ Flo le schizophrène."
 
 
 [Journal de Bord : 1er Juillet 2022](https://www.youtube.com/watch?v=-r4Pu2s88eA&list=RD-r4Pu2s88eA&start_radio=1)
-"J’ai ouvert ce livre, 
-Je suis tombé ivre, 
-J’ai du mal à réaliser, 
-Ce que je suis en train de vivre, 
-Je saurais pas l’expliquer, 
-Tous les dessins s’enchaînent, 
-1 an avant, j’étais rempli de haine, 
-J’arrive pas à croire ce que je lis, 
-Tu représentes mes envies, 
-Tu habites mes rêves, 
-À tes doux mots, je souris, 
-Je les sais tranchant comme un glaive, 
-J’ai peur d’ouvrir les derniers chapitres,
-Je veux pas que ce soit comme un mythe,
-J’ai peur d’avoir tout inventer, 
-Que tout peut-être gommé, 
-J’ai pas retourné le livre, 
-Le synopsis toujours à lire, 
-Je préfère prendre ma propre encre, 
-Ajouter tous nos moments tendres,
-Écrire notre histoire comme je la perçois,
-Le meilleur roman, amoureux de toi, 
-Je me fais un film à chaque fois, 
-Sans foi ni loi, comme des rois, 
-Juste toi et moi, ici ou là bas, 
-J’hésite à te dire je t’aime, 
-Mon cœur tu l’emmènes,
-Dans un autre monde, 
-Ou je fais des rondes, 
-Attendant l’heure de te revoir,
-Je suis face au miroir, 
-J’arrêterai plus jamais de croire, 
-Que toi et moi, 
-C’était inévitable…"
+
+![](images/chloe1Juillet.png)
 
 
