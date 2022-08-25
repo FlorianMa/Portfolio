@@ -99,3 +99,8 @@ Flo le schizophrène."
 ![](images/chloe1Juillet.png)
 
 
+Alors que nos deux compaires ont pu réaliser une nouvelle escapade, courte mais malgré celà intense, voici un petit extrait en images des précédentes expéditions. Ils sont bientôt en route pour la suite !!
+
+![](images/Untitled Diagram.drawio.svg)
+
+
