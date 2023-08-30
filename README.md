@@ -1,4 +1,5 @@
 [Journal de Bord : 20 Mars 2023]()
+
 Le pivert eu perdu tout repère, il ne savait plus où il en était et en fit souffrir le castor ... C'est alors qu'ils se séparèrent mais le pivert savait que ce n'était que question de temps avant qu'il ne revienne voler autour du barrage favori du castor ... Il espérait simplement que celui-ci ne soit pas parti dans une autre barrage là où le pivert ne pourrait jamais le retrouver ...
 
 
