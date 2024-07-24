@@ -67,7 +67,7 @@ Je t’aime Chloé,
 J’espère à bientôt. 
 Flo
 
-[Journal de bord : 30 Août]()
+[Journal de bord : 30 Août 2023]()
 
 Je viens de voir sur discord que t’avais eu ton permis. Gg à toi, je suis content et fier de toi. Ça m’a fait pleurer pour être honnête. Je me suis rendu compte à quel point je faisais plus partie de ta vie… ça me rend tellement triste …
 
@@ -75,3 +75,15 @@ Je viens de voir sur discord que t’avais eu ton permis. Gg à toi, je suis con
 
 
 [Musique du moment](https://www.youtube.com/watch?v=MX_IdXiFazM&list=PLSPJ61aOSvKzjl2bgR0ZihE4iK8ufvyvb&index=1)
+
+[Journal de bord : 24 Juillet 2024]()
+
+Salut. J'ai retrouvé le mdp ahah. Cela fait un mois que tu m'as quitté. J'ai l'impression que c'était il y a une éternité, que toi et moi ça appartient au passé. Enfin je dis ça mais vendredi on se voit et je n'attends que ça depuis la dernière fois qu'on s'est vu. J'attends de tes nouvelles aussi. Je suis pas en train de passé à autre chose en tout cas. Je passe tout mon temps tout seul. Parler aux humains ne m'aide pas. J'ai beaucoup travaillé ces temps-ci, même si je suis pas sûr que ma thèse va continuer. J'ai obtenu mon financement mais John Cockerill a changé des trucs et ils ne savent pas me dire si ma thèse va continuer pour l'instant. Je me suis embrouillé avec Adam à propos du fait de quitter l'appartement. J'ai voulu déménager mais il m'a fait comprendre qu'en gros il ne paierait rien des indemnités si je décidais de rompre le bail. Je retourne un peu plus à l'unif ces deux semaines-ci, j'y vais un peu les matins. J'ai perdu 6kg depuis qu'on s'est laissé. Je fais pas mal de sport. J'apprends à investir en bourse, je me renseigne de plus en plus. Je joue beaucoup aux jeux vidéos aussi.
+
+Tu sais c'est quoi le point commun à tout ça ? C'est que malgré les galères, la seule chose qui me prend la tête c'est de savoir si je vais pouvoir te revoir après la prochaine fois. Est-ce que tu m'aimes toujours ? Parce que moi oui. Je rêve de danser à nouveau avec toi. Ce qui me manque le plus c'est ça, nos moments où on dansait. Ou peuut-être que c'est notre complicité qui me manque plutôt. J'ai envie d'aller à un concert avec toi. Je regrette de pas t'avoir plus pris dans mes bras à celui de 47ter. Je regrette trop de choses par rapport à toi. Je m'imagine toujours après ... est-ce qu'on visitera le monde à deux ? J'ai envie de quitter cette vie pour en voir une nouvelle avec toi. Te chosir toi plutôt que tout le reste. Tout laisser derrière et avancer dans notre camping car amménagé. Je suis désolé pour tout Chloé. J'espère que notre histoire ne s'arrête pas ici ni dans un futur proche mais bien qu'il nous reste la vie devant nous. Que tout ceci n'est qu'une question de temps...
+
+J'espère que tu vas bien en tout cas. Que tu profites bien de tes vacances, du soleil, de tout ce que tu peux faire. J'ai l'impression que t'es partie en Erasmus et qu'on se retrouvera bientôt. Je sais plus trop quoi penser de tout ça. J'aimerais bien savoir ce que toi tu en penses.
+
+Loveeee youuuu,
+A bientôt mon castor,
+Mich
