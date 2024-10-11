@@ -87,3 +87,10 @@ J'espère que tu vas bien en tout cas. Que tu profites bien de tes vacances, du 
 Loveeee youuuu,
 A bientôt mon castor,
 Mich
+
+[Journal de bord : 11 Octobre 2024]()
+
+Salut Mich,
+
+Je sais même pas si tu te rendras compte que j'ai écrit ici parce que je suis pas sûr de te le dire. Au final, on s'est revu et même plusieurs fois ahah. On s'embrasse pour se dire bonjour, ça veut surement dire qu'on est un peu ensemble quand même. Même si je le dis à personne quoi. C'est un peu bizarre comme situation. Je sais pas trop ce que ça donne de ton côté, ni comment tu le vis. Je me dis que tu dois être tellement prise par ton nouveau travail puis j'ai pas envie d'y penser. J'ai un peu peur je pense, surement parce que la situation fait vraiment pas rêver, pour moi en tout cas. Mais je suis content de pouvoir te voir parfois, et je m'accroche un peu encore. Puis c'est cool quand on se voit mais c'est pas vraiment une vie de couple qu'on a quoi ... C'est dur à faire fonctionner tout ça mais c'est cool parce qu'on arrive un peu à notre échelle, enfin je pense. Je voulais juste te dire merci parce que t'as toujours été là et tu acceptes toujours la personne que je suis, tu m'aimes comme j'ai envie d'être et tu ne me freines jamais dans un projet, c'est rare d'avoir quelqu'un comme toi. Enfin, je sais pas, j'arrive pas à me positionner et si je devrais être plus là pour toi ou si tu attends quelque chose de plus de moi, est-ce que tu me parles de tout ce dont tu as sur le coeur ? Ou tu n'oses plus ? Ou y-t-il quelque chose d'autre ? Je t'aime minot, j'aimerais bien savoir si ça va ... dis moi si tu vas bien stp, bisous 
+
